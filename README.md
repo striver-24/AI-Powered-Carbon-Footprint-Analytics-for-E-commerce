@@ -18,7 +18,15 @@ This project implements an AI-powered system for analyzing and optimizing carbon
 git clone https://github.com/your-repo/project.git
 cd project
 ```
-2. Install the required dependencies:
+
+2. Create a virtual environment (if using mac)
+
+```bash
+python3.11 -m venv tf_env
+source tf_env/bin/activate
+```
+
+3. Install the required dependencies:
 
 ```bash
 pip install -r requirements.txt
