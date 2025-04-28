@@ -1,0 +1,15 @@
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
+tensorflow # For Apple Silicon Macs (if applicable)
+prophet
+streamlit
+plotly
+requests
+python-dotenv
+statsmodels
+keras==2.15.0
+tqdm
+typing-extensions
