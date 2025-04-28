@@ -87,6 +87,32 @@ The system analyzes various factors affecting carbon footprint:
 - Optimization recommendations
 - Data upload and synthetic data generation
 
+## Demo of the project
+
+### Carbon Footprint Analytics Dashboard
+<table>
+  <tr>
+    <td align="center">
+      <img src="images/Screenshot 2025-04-28 at 9.39.24 PM.png" width="400">
+      <br>Overview Metrics & Trends
+    </td>
+    <td align="center">
+      <img src="images/Screenshot 2025-04-28 at 9.39.26 PM.png" width="400">
+      <br>Impact Analysis
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="images/Screenshot 2025-04-28 at 9.39.30 PM.png" width="400">
+      <br>Predictions & Forecasting
+    </td>
+    <td align="center">
+      <img src="images/Screenshot 2025-04-28 at 9.39.32 PM.png" width="400">
+      <br>Enhanced Analysis
+    </td>
+  </tr>
+</table>
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
